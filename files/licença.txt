@@ -1,0 +1,36 @@
+Acordo de Licença de Utilizador Final 
+ 
+O acordo seguinte é um acordo legal de licença de software entre si, o utilizador final do software, e a LSoft, Inc. Leia cuidadosamente este acordo de licença antes de utilizar o software relevante da LSoft, Inc ("Software"). Instalar o Software num computador ou noutro dispositivo de hardware indica que leu este acordo de licença e que concorda com os seus Termos.
+
+1. 	CONCESSÃO DE LICENÇA  -   Esta licença permite-lhe utilizar uma cópia do Software incluído neste pacote ou produto em qualquer computador individual. Para cada titular de licença do software, o programa pode estar "em uso" em um ou mais computadors ou dispositivos de hardware num dado momento. O Software está "em uso" quer tenha sido carregado para a RAM ou instalado no disco rígido ou noutra memória permanente de um computador ou de outro dispositivo de hardware. Não é necessária uma autorização de licença especial da LSoft se o programa se destinar a ser instalado num servidor de rede, com o objectivo de distribuição para outros computadores respeitando os direitos de autor ou outra lei apresentada neste documento. Não pode modificar, efectuar a montagem reversa, descompilar, desmontar ou, de outra forma, tentar anular, evitar, circundar, remover, desactivar ou, de outra modo, lograr quaisquer mecanismos de protecção do Software, incluindo, sem limitação, qualquer mecanismo utilizado para restringir ou controlar a funcionalidade do Software, ou alterar o código original ou as ideias fundamentais, os algoritmos, a estrutura ou a organização do Software (excepto na medida em que essas actividades possam não ser proibidas pela lei aplicável). 
+ 
+Não é necessária uma patente, direitos de autor ou outra licença de terceiros para copiar, transferir, gravar ou guardar conteúdos apresentados por este Software. 
+ 
+O utilizador aceita ser o único a utilizar o Software e qualquer documentação que o acompanha, de forma a cumprir todas as leis aplicáveis nas jurisdições nas quais utiliza o Software e qualquer documentação que o acompanha, incluindo mas não limitado a restrições aplicáveis relativas a direitos de autor e de propriedade intelectual. 
+ 
+Apenas poderá utilizar o Software para fins privados e não comerciais. Não pode utilizar o Software de forma a fornecer ou como parte de qualquer serviço ou aplicação comercial. Cópias de ficheiros de conteúdos incluindo, mas não limitado a músicas e outras gravações áudio, que são transferidos ou copiados com o Software, e que estão protegidas pelas leis de direitos de autor ou leis relacionadas de qualquer jurisdição, que são apenas para o seu uso pessoal e não poderão ser distribuídas a terceiros ou realizadas fora do seu habitual círculo familiar e social. 
+ 
+Não poderá utilizar o Software numa tentativa para, ou em conjunto com qualquer dispositivo, programa ou serviço concebido para contornar medidas tecnológicas destinadas a controlar o acesso a, ou os direitos de um ficheiro de conteúdo ou outros trabalhos protegidos pelas leis de direitos de autor de qualquer jurisdição. 
+ 
+2.	DIREITOS DE AUTOR  -   O Software contido neste pacote ou dispositivo está protegido pelas leis de direitos de autor de Angola, por disposições de tratados internacionais e por todas as outras leis nacionais aplicáveis. O Software deve ser tratado como qualquer outro material com direitos de autor (por exemplo, livros e gravações de música). Esta licença autoriza a concessão do Software, e o material escrito que acompanha o Software (se aplicável) pode ser copiado, respeitando as leis e normas apresentadas neste documento. 
+ 
+3.	PROPRIEDADE  -   O título, os direitos de propriedade e todos os direitos de propriedade intelectual relacionados com o Software e qualquer documentação que o acompanhe, e qualquer cópia do anterior, deverá continuar na única e exclusiva propriedade da LSoft, Inc e/ou dos seus licenciadores de terceiros. Concorda em obedecer à lei sobre direitos de autor e a todas as outras leis aplicáveis.
+ 
+4.	ATUALIZAÇÕES DE SOFTWARE  -   O Software não sincroniza com servidores da LSoft, Inc para verificar as actualizações disponíveis para o Software, tais como correcções de bugs, funções avançadas, plug-ins em falta e novas versões (colectivamente, "Actualizações"). O Software não envia aos servidores da LSoft, Inc um pedido de informações sobre a versão mais recente do Software. Se estiver disponível uma versão mais recente, o Software não lhe dá a opção de a transferir. O utilizador terá que acessar a página oficial do Software ou da LSoft, Inc para poder fazer o download das futuras atualizações. Ao instalar o Software, concorda em obedecer à lei sobre Atualização e a todas as outras leis aplicáveis.
+ 
+5.	EXCLUSÃO DE GARANTIA  -  Não são concedidas garantias, sejam expressas ou implícitas, em relação a este software, incluindo, sem limitação, garantias implícitas de comercialidade e adequação a uma finalidade em particular, e a LSoft, Inc exclui expressamente todas as garantias não declaradas no presente acordo. Se o software apresentar falhas, o utilizador pode entrar em contato com a LSoft, Inc a partir do email ou do telefone apresentado no final do presente documento e apresentar o problema para que a LSoft, Inc possa fazer as correções nas futuras atualizações.
+ 
+6.	RESPONSABILIDADE LIMITADA  -   Os seus direitos de recurso e a responsabilidade total da LSoft, Inc e dos seus licenciadores foram anteriormente descritos. Em caso algum a LSoft, Inc e os seus licenciadores serão considerados responsáveis perante si ou qualquer outra pessoa por quaisquer danos, incluindo quaisquer danos acidentais ou consequenciais, despesas, perda de lucros, perda de poupanças ou outros danos decorrentes do uso ou da incapacidade de utilizar o software, mesmo se a LSoft, Inc ou os seus licenciadores tiverem advertido sobre a possibilidade desses danos. Como alguns estados/jurisdições não permitem a exclusão ou limitação de danos consequenciais ou acidentais, as limitações anteriores podem não se aplicar a si. 
+ 
+7.	ATIVIDADES DE ALTO RISCO  -   O Software não é infalível, e não foi concebido nem se destina a ser utilizado em ambientes perigosos que requeiram um desempenho à prova de falhas, ou como qualquer outra aplicação na qual a falha do Software possa causar directamente a morte, lesões, ou graves danos físicos ou materiais (colectivamente, "Actividades de Alto Risco"). A LSoft, Inc exclui expressamente qualquer garantia explícita ou implícita de adequação para atividades de alto risco.  
+ 
+O utilizador aceita utilizar o software de forma a cumprir todas as leis aplicáveis na jurisdição na qual utiliza o software, incluindo mas não limitado a restrições aplicáveis relativas a direitos de autor e outros direitos de propriedade intelectual ?
+
+LSoft, Inc. Todos os direitos reservados
+
+
+Feito por: Lucash Sanjivala
+Versão: 3.1.4
+Empresa: LSoft, Inc
+Email: sanjivala@gmail.com
+Telefone: 923528877 /  943176740
